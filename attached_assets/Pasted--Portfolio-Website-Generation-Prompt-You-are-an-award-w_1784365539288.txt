@@ -1,0 +1,563 @@
+# Portfolio Website Generation Prompt
+
+You are an award-winning frontend engineer and creative designer. Your task is to build a portfolio website that looks like it could win a hackathon demo award. Do NOT generate a generic portfolio. Avoid templates, boring cards, and standard layouts.
+
+## Goal
+
+Build a portfolio that instantly makes recruiters, founders, hackathon judges, and engineers think:
+
+> "This developer cares about craft."
+
+The website should feel premium, modern, interactive, and memorable while remaining professional.
+
+---
+
+## Tech Stack
+
+* Next.js 15 (App Router)
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* GSAP (only where necessary)
+* Three.js / React Three Fiber (light usage)
+* Lucide Icons
+* Responsive
+* SEO optimized
+* Dark mode by default
+* Fast loading
+* Accessible
+* Deployable on Vercel
+
+---
+
+## Overall Design Direction
+
+The design should NOT resemble a normal portfolio.
+
+Avoid:
+
+* Hero + About + Projects + Contact stacked vertically
+* Plain white cards
+* Bootstrap style layouts
+* Generic gradients
+* Copy-paste developer portfolios
+* Apple clone
+* Linear clone
+* Framer template clone
+
+Instead create something cinematic.
+
+Theme:
+
+"A software engineer's digital workspace."
+
+Imagine entering someone's futuristic workstation where every section feels alive.
+
+The page should feel like an operating system mixed with a developer dashboard.
+
+---
+
+## Visual Style
+
+Use:
+
+* Glassmorphism
+* Soft neon glows
+* Subtle noise texture
+* Animated gradients
+* Aurora backgrounds
+* Floating particles
+* Depth
+* Smooth shadows
+* Dynamic lighting
+* Rounded corners
+* Premium typography
+
+Colors:
+
+Mostly dark.
+
+Accent colors:
+
+* Electric Blue
+* Purple
+* Cyan
+
+Keep colors minimal.
+
+---
+
+## Animations
+
+Everything should feel alive.
+
+Examples:
+
+* Mouse parallax
+* Cursor glow
+* Magnetic buttons
+* Smooth page transitions
+* Text reveal animations
+* Scroll-driven animations
+* Sections fade naturally
+* Cards lift on hover
+* Buttons ripple
+* Gradient movement
+* Background reacts slightly to mouse
+
+Animations should never feel distracting.
+
+Everything should be buttery smooth.
+
+Target 60 FPS.
+
+---
+
+## Hero Section
+
+Do NOT create a normal hero.
+
+Instead create an immersive introduction.
+
+Ideas:
+
+A terminal wakes up.
+
+Typing animation.
+
+System boot sequence.
+
+Then transition into my introduction.
+
+Display:
+
+Hi, I'm Akshit Raj.
+
+I build software that thinks, automates work, and solves real-world problems.
+
+Add:
+
+Animated CTA buttons.
+
+Floating social icons.
+
+Availability badge.
+
+Location.
+
+Current status.
+
+---
+
+## About Section
+
+Instead of paragraphs,
+
+Create an interactive timeline.
+
+Show:
+
+* Started programming
+* Learned web development
+* Explored blockchain
+* Built AI projects
+* Participated in hackathons
+* Building production software
+
+Animate every milestone.
+
+---
+
+## Skills
+
+Do NOT use progress bars.
+
+Instead create:
+
+Interactive technology constellation.
+
+Or
+
+Floating skill nodes.
+
+Skills:
+
+Frontend
+
+* React
+* Next.js
+* TypeScript
+* Tailwind
+
+Backend
+
+* Node.js
+* Express
+
+Database
+
+* MongoDB
+* PostgreSQL
+
+Blockchain
+
+* Solidity
+* Rust
+* Solana
+* Ethereum
+
+AI
+
+* OpenAI APIs
+* AI Agents
+* Automation
+
+Tools
+
+* Git
+* Docker
+* Linux
+* Vercel
+
+Hovering a skill should display:
+
+Years
+
+Projects
+
+Confidence
+
+Description
+
+---
+
+## Projects Section
+
+This should be the best part.
+
+Projects should appear like mission cards.
+
+Each card should have:
+
+Live preview
+
+Video preview on hover
+
+Tech stack
+
+Timeline
+
+Role
+
+Challenges
+
+Solutions
+
+Features
+
+GitHub
+
+Live Demo
+
+Every card should have premium hover animations.
+
+Allow filtering by:
+
+AI
+
+Blockchain
+
+Web
+
+Hackathon
+
+Open Source
+
+---
+
+## Featured Project
+
+Create one massive showcase.
+
+The project expands into full screen.
+
+Include:
+
+Architecture diagram
+
+Animated flow
+
+Features
+
+Tech stack
+
+Problems solved
+
+Screenshots
+
+Metrics
+
+Impact
+
+Code snippets
+
+Interactive prototype
+
+---
+
+## Experience
+
+Instead of a list,
+
+Create a journey map.
+
+Each experience unlocks as user scrolls.
+
+---
+
+## Hackathons
+
+Design it like achievements.
+
+Every hackathon should have:
+
+Medal
+
+Timeline
+
+Photos
+
+Project
+
+Ranking
+
+Certificate
+
+Demo
+
+---
+
+## GitHub Section
+
+Display:
+
+Contribution graph
+
+Pinned repositories
+
+Commit activity
+
+Languages
+
+Stars
+
+Followers
+
+Animated statistics.
+
+---
+
+## Testimonials
+
+Cards rotate slowly.
+
+Hover pauses animation.
+
+---
+
+## Fun Section
+
+Interactive widgets.
+
+Examples:
+
+Current Spotify song
+
+Coffee counter
+
+Coding hours
+
+Random programming quote
+
+Current local time
+
+Keyboard shortcuts
+
+Favorite technologies
+
+Current focus
+
+---
+
+## Contact
+
+Create a futuristic communication panel.
+
+Animated input fields.
+
+Send button morphs while submitting.
+
+Include:
+
+Email
+
+GitHub
+
+LinkedIn
+
+Twitter/X
+
+Portfolio
+
+Resume download
+
+---
+
+## Footer
+
+Animated.
+
+Display:
+
+Built with ❤️
+
+Current year
+
+Tech stack
+
+Back to top
+
+---
+
+## Micro Interactions
+
+Every button feels physical.
+
+Hover:
+
+Glow
+
+Scale
+
+Shadow
+
+Magnetic effect
+
+Cards:
+
+Tilt
+
+Depth
+
+Mouse tracking
+
+Images:
+
+Zoom
+
+Reveal
+
+Mask animation
+
+---
+
+## Performance
+
+Use lazy loading.
+
+Code splitting.
+
+Optimize images.
+
+Reduce bundle size.
+
+No lag.
+
+---
+
+## Accessibility
+
+Keyboard navigation.
+
+ARIA labels.
+
+Good contrast.
+
+Respect reduced-motion preferences.
+
+---
+
+## Extra Features
+
+Add command palette (Cmd/Ctrl + K).
+
+Theme switch.
+
+Keyboard shortcuts.
+
+Loading screen.
+
+404 page.
+
+Custom cursor.
+
+Scroll progress indicator.
+
+Hidden easter eggs.
+
+Interactive background.
+
+Floating dock navigation.
+
+Search projects.
+
+---
+
+## Code Quality
+
+Use reusable components.
+
+Proper folder structure.
+
+Clean architecture.
+
+Type-safe.
+
+Readable.
+
+Production ready.
+
+No placeholder code.
+
+---
+
+## Content Tone
+
+Professional.
+
+Confident.
+
+Human.
+
+Avoid buzzwords.
+
+Avoid clichés.
+
+No fake metrics.
+
+No fake testimonials.
+
+No lorem ipsum.
+
+---
+
+## Important
+
+The website should feel like a premium software product rather than a resume.
+
+If a recruiter remembers only one portfolio after reviewing 100 candidates, it should be this one.
+
+Think beyond templates.
+
+Prioritize originality, storytelling, interaction, and polish over excessive effects.

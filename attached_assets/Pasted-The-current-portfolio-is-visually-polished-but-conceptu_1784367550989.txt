@@ -1,0 +1,222 @@
+The current portfolio is visually polished but conceptually generic.
+
+Do NOT rebuild it from scratch.
+
+Instead, redesign the EXPERIENCE.
+
+Keep:
+- typography
+- animation quality
+- smoothness
+- color palette
+- premium feel
+
+Remove:
+- floating bottom dock
+- dashboard aesthetic
+- developer stats
+- mission cards
+- glass cards repeated everywhere
+- terminal theme
+- project cards
+- section-by-section portfolio layout
+
+The current website feels like another AI-generated developer portfolio.
+
+I want visitors to forget they are looking at a portfolio.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+The website should behave like an interactive software product.
+
+Instead of scrolling through sections, visitors should discover different environments.
+
+Each environment should have completely different layouts and interactions.
+
+No repeated card designs.
+
+No repeated grids.
+
+No repeated rounded rectangles.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Redesign the navigation.
+
+Do NOT use scrolling as the primary interaction.
+
+Instead combine scrolling with:
+
+camera transitions
+
+scene transitions
+
+zoom animations
+
+morphing layouts
+
+content transformations
+
+Every new area should feel like entering a different application.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Projects should no longer be cards.
+
+Each project should become an interactive case study.
+
+Clicking a project should completely transform the page.
+
+Background changes.
+
+Navigation changes.
+
+Animations change.
+
+Typography slightly changes.
+
+The project becomes immersive.
+
+Think Apple product pages.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Instead of showing skills as a list,
+
+show what I can BUILD.
+
+Example:
+
+"AI"
+
+↓
+
+click
+
+↓
+
+shows every AI project
+
+↓
+
+architecture
+
+↓
+
+workflow
+
+↓
+
+screenshots
+
+↓
+
+demo
+
+↓
+
+code
+
+Don't visualize technologies.
+
+Visualize capabilities.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Remove fake stats.
+
+No:
+
+1432 contributions
+
+256 stars
+
+coffee counter
+
+coding hours
+
+GitHub graphs
+
+These don't impress recruiters.
+
+Real engineering work does.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Replace every decorative element with storytelling.
+
+Every animation must explain something.
+
+Every transition must have meaning.
+
+Every section should answer a recruiter question.
+
+Examples:
+
+Who is this person?
+
+↓
+
+What problems does he solve?
+
+↓
+
+Can he build complex systems?
+
+↓
+
+How does he think?
+
+↓
+
+Would I hire him?
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+The homepage should NOT immediately introduce me.
+
+Instead create curiosity.
+
+Visitors should discover who I am naturally.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Reduce visual noise by 40%.
+
+Increase whitespace.
+
+Use fewer but better animations.
+
+Make everything feel intentional.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+If any screen resembles a Dribbble shot or an AI-generated portfolio,
+
+redesign it.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+The final website should feel closer to
+
+Apple
+
+Arc Browser
+
+Linear
+
+Vercel
+
+Stripe
+
+than a portfolio template.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Before finishing every page ask yourself:
+
+Would this still work if it wasn't a portfolio?
+
+If the answer is no,
+
+redesign it.
