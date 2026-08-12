@@ -126,7 +126,7 @@ export function GitHubStats() {
         >
           <div className="flex items-center justify-between mb-4">
             <span className="text-sm font-mono text-white/50">
-              1,847 contributions in the last year
+              653 contributions in the last year
             </span>
             <a
               href="https://github.com/akshq96"
