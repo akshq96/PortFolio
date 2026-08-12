@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const STATS = [
   { label: "Repositories", value: "47", icon: "📁" },
   { label: "Total Stars", value: "12", icon: "⭐" },
-  { label: "Contributions", value: "1,847", icon: "🔥" },
+  { label: "Contributions", value: "653", icon: "🔥" },
   { label: "Followers", value: "24", icon: "👥" },
 ];
 
