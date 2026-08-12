@@ -179,7 +179,7 @@ export function GitHubStats() {
               {PINNED.map(({ name, desc, stars, lang, color }) => (
                 <a
                   key={name}
-                  href={`https://github.com/akshitraj/${name}`}
+                  href={`https://github.com/akshq96/${name}`}
                   target="_blank"
                   rel="noreferrer"
                   className="glass-card rounded-xl p-4 hover:scale-[1.01] transition-all duration-300 group"
