@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const TIMELINE = [
   {
-    year: "2023",
+    year: "2022",
     title: "Started Programming",
     desc: "Wrote first lines of Code. Fell in love with the idea that you could build anything from nothing.",
     color: "#3b82f6",
@@ -17,7 +17,7 @@ const TIMELINE = [
     icon: "⚡",
   },
   {
-    year: "2025",
+    year: "2024",
     title: "Explored Blockchain",
     desc: "Dived into Solidity and Ethereum. Deployed first smart contract on testnet. Got hooked on the idea of trustless systems.",
     color: "#7c3aed",
@@ -31,16 +31,16 @@ const TIMELINE = [
     icon: "🤖",
   },
   {
-    year: "2023",
+    year: "2025",
     title: "Hackathon Circuit",
     desc: "Competed in 6+ hackathons. Won 3. Shipped ChainVault and HackBot under 48-hour sprints.",
     color: "#f59e0b",
     icon: "🏆",
   },
   {
-    year: "2024",
+    year: "2026",
     title: "Production Software",
-    desc: "Building software that handles real load — NeuroFlow processes 10k+ requests/day, SolTrace indexes 3k+ TPS.",
+    desc: "Building software that handles real load NeuroFlow processes 10k+ requests/day, SolTrace indexes 3k+ TPS.",
     color: "#3b82f6",
     icon: "🚀",
   },
