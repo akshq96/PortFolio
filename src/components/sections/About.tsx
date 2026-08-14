@@ -24,7 +24,7 @@ const TIMELINE = [
     icon: "⛓️",
   },
   {
-    year: "2022",
+    year: "2025",
     title: "Built AI Projects",
     desc: "Integrated OpenAI APIs before it was mainstream. Built automation pipelines and early agent prototypes.",
     color: "#10b981",
