@@ -10,7 +10,7 @@ const TIMELINE = [
     icon: "🐍",
   },
   {
-    year: "2020",
+    year: "2023",
     title: "Learned Web Development",
     desc: "Picked up React and Node.js. Built full-stack apps and realized the web was the most accessible platform on earth.",
     color: "#06b6d4",
