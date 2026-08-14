@@ -17,7 +17,7 @@ const TIMELINE = [
     icon: "⚡",
   },
   {
-    year: "2021",
+    year: "2025",
     title: "Explored Blockchain",
     desc: "Dived into Solidity and Ethereum. Deployed first smart contract on testnet. Got hooked on the idea of trustless systems.",
     color: "#7c3aed",
