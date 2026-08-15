@@ -124,7 +124,10 @@ export function CommandPalette() {
                     <Command.Item
                       onSelect={() =>
                         runCommand(() =>
-                          window.open("https://linkedin.com", "_blank")
+                          window.open(
+                            "www.linkedin.com/in/akshit-raj-370b4b298",
+                            "_blank"
+                          )
                         )
                       }
                       className="flex items-center px-2 py-2 mt-1 rounded-md cursor-pointer aria-selected:bg-white/10 text-white text-sm transition-colors"
