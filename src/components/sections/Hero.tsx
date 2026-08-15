@@ -12,7 +12,7 @@ import {
 
 const BOOT_LINES = [
   { text: "> initializing developer profile...", delay: 0 },
-  { text: "> loading skills database... [OK]", delay: 60 },
+  { text: "> loading skills database....[OK]", delay: 60 },
   { text: "> mounting project repository... [OK]", delay: 120 },
   { text: "> connecting to GitHub API... [OK]", delay: 180 },
   { text: "> compiling experience records... [OK]", delay: 240 },
