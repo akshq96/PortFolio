@@ -76,7 +76,7 @@ const PROJECTS: Project[] = [
       "Multi-authority approval",
       "Self-custody guaranteed",
     ],
-    metric: "$50M+ total value locked",
+    metric: "total value locked",
     github: "https://github.com/akshitraj/chainvault",
     demo: "#",
     codeSnippet: `pub fn execute_transfer(ctx: Context<ExecuteTransfer>, amount: u64) -> Result<()> {
