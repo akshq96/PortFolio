@@ -133,14 +133,14 @@ const PROJECTS: Project[] = [
     challenge:
       "Raw Solana transaction data is notoriously unreadable — complex inner instructions, no universal ABI standard.",
     solution:
-      "Geyser plugin ingests the firehose. IDL-based decoder maps instructions to program interfaces. ClickHouse handles 3k+ TPS analytics.",
+      "Geyser plugin ingests the firehose. IDL-based decoder maps instructions to program interfaces. ClickHouse handles TPS analytics.",
     features: [
       "Real-time TPS indexing",
       "IDL-based instruction decoder",
       "DeFi swap visualization",
       "Historical analytics",
     ],
-    metric: "3k+ TPS indexed in real-time",
+    metric: " TPS indexed in real-time",
     github: "https://github.com/akshitraj/soltrace",
     demo: "#",
     codeSnippet: `function parseInstruction(ix: CompiledInstruction, idl: Idl) {
