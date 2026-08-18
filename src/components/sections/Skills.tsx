@@ -180,7 +180,7 @@ const SKILLS: Skill[] = [
     name: "OpenAI",
     category: "AI",
     years: 2,
-    projects: 8,
+    projects: 2,
     confidence: 88,
     desc: "Function calling, streaming, embeddings, fine-tuning. Built before ChatGPT launched.",
     color: "#34d399",
