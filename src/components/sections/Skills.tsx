@@ -130,7 +130,7 @@ const SKILLS: Skill[] = [
     name: "Redis",
     category: "Database",
     years: 1.5,
-    projects: 4,
+    projects: 2,
     confidence: 72,
     desc: "Caching, pub/sub, session store. Shaved 300ms off HackBot response times.",
     color: "#f87171",
