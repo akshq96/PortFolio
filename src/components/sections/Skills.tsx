@@ -228,7 +228,7 @@ const SKILLS: Skill[] = [
   {
     name: "Git",
     category: "Tools",
-    years: 4,
+    years: 3,
     projects: 20,
     confidence: 95,
     desc: "Rebase, bisect, reflog. I've recovered from things other people call data loss.",
